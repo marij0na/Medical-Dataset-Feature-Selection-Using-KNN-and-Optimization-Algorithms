@@ -15,8 +15,10 @@ This project implements feature selection for a medical dataset using k-Nearest 
 
 To set up the project, clone the repository and install the required dependencies:
 
-git clone https://github.com/marij0na/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/marij0na/Medical-Dataset-Feature-Selection-Using-KNN-and-Optimization-Algorithms.git
+
+cd Medical-Dataset-Feature-Selection-Using-KNN-and-Optimization-Algorithms
+
 pip install -r requirements.txt
 
 # Usage
